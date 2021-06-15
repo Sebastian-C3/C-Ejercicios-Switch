@@ -35,7 +35,7 @@ int main()
 		case 4:
 			printf("\n>:(\n");
 			break;
-	}
+	}	
 
 	if (dejarMensaje)
 	{
